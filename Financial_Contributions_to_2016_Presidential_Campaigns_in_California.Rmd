@@ -898,9 +898,3 @@ While analyzing this dataset I came across multiple challenges and issues.
 ### Future Work:
 > I analyzed 2016 US presidential financial campaign data for California state and came across some popular president contenders and their finding in California however it would be very interesting to analyze other states financial campaign data as well as nationwide data so that we can predict accurately which candidate and party had very good chance of winning the president election based on financial campaign across US.
 
-
-
-> **Tip**: Here's the final step! Reflect on the exploration you performed and
-the insights you found. What were some of the struggles that you went through?
-What went well? What was surprising? Make sure you include an insight into
-future work that could be done with the dataset.
